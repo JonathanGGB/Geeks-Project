@@ -1,12 +1,12 @@
-# Geeks-Project
-Herramientas y links:
+#   Entrega final
+## Equipo 6
 
-Onedrive:https://1drv.ms/w/s!Aid7glBVSnKnjVROMLQ3wIVydUtn Primera entrega
+1. [Articulo](https://1drv.ms/w/s!Ag1t7XCYCtanygCjMnx1r3DtYfK1)
+2. [Póster](https://1drv.ms/w/s!Aid7glBVSnKnjlgFwi8NX6ycJghZ)
+3. [Video](https://youtu.be/wDOJglCTjy0)
+4. [Documenación del producto](https://1drv.ms/w/s!Aid7glBVSnKnjVRqXx15-Jax-A6v)
+5. [Geeks: FIS Adventure](https://drive.google.com/drive/folders/1-NdOxXl5DYVcS-2gC3gfJdbZPIVTd50P?usp=sharing)
 
-Onedrive: https://1drv.ms/w/s!Aid7glBVSnKnjWLSKIe9L1vE4Efl Resumen primera entrega
+###Se recomienda abrir en aplicación de escritorio para visualizar correctamente
 
-Discord https://discord.gg/kXZaxRJ El objetivo de usar esta plataforma es realizar una llamada grupal o discusiones más allá del grupo de whatsapp, todo esto con el fin de mejorar el proceso de comunicación y fomentar el debate de ideas propicias para el correcto desempeño de cada integrante
-
-Trello https://trello.com/b/vs3s8sUg/fis El uso de esta herramienta surge por la necesidad de llevar una mejor organización y aprovechar al máximo el tiempo evitando discusiones sobre quién hará qué, ya que con esta aplicación podemos asignar y administrar todo el proceso que se llevará a cabo
-
-Kahoot (Su uso se plantea como plataforma para evaluar el desempeño de cada integrante, mediante el uso de cuestionarios llamativos que fomenten la sana competencia y el aprendizaje de cada miembro) 
+:+1:
